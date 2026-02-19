@@ -42,7 +42,7 @@ Most ad blockers are heavy, complex, or intrusive. Chomper focuses on:
 
 ### Installer (Recommended)
 
-1. Download the latest **`chomper.exe`** from the Dist located inside chomper_installer folder.
+1. Download the latest **`chomper.exe`** from the Dist located inside "chomper_installer" folder.
 2. Run the installer and follow instructions  
 3. The extension is set up automatically
 
